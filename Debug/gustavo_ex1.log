@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (binBackpack.vcxproj, gustavo_ex1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  backpack.cpp
+c:\users\cinsamsung\desktop\fundamentos\gustavo_ex1\backpack.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\cinsamsung\desktop\fundamentos\gustavo_ex1\backpack.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\cinsamsung\desktop\fundamentos\gustavo_ex1\backpack.cpp(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\cinsamsung\desktop\fundamentos\gustavo_ex1\backpack.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  gustavo_ex1.vcxproj -> C:\Users\CINSamsung\Desktop\fundamentos\gustavo_ex1\Debug\backpackProb.exe
